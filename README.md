@@ -52,11 +52,6 @@ We will retain your information for as long as your account is active or as need
 - **Automatic Deletion:** Trashed items are automatically and permanently deleted from our servers after 30 days.
 - **Account Deletion:** You can delete your account at any time from the settings screen. This action is irreversible and will permanently delete all of your data from our servers.
 
-
-### POLICY FOR CHILDREN
-
-We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below.
-
 ### CONTACT US
 
 If you have questions or comments about this Privacy Policy, please contact us at:
